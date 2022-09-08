@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/otg5us2vjdqx3j71?svg=true)](https://ci.appveyor.com/project/Romagor/hw-2-1-ci-json-schema)
